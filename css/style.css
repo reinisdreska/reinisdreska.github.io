@@ -2,16 +2,16 @@ html, body {
     height: 100%;
     width: 100%;
     font-family: "Tahoma", sans-serif;
-    color: #222;
+    color: #999999;
 }
 
 
 .navbar-brand img {
-    width: 20%;
+    width: 10%;
 }
 
 .navbar {
-    padding: .8rem;
+    padding: .4rem;
 }
 
 .navbar-nav li {
@@ -58,7 +58,7 @@ html, body {
     transform: scale(1.1);
 }
 footer {
-    background-color: #4e555b;
+    background-color: #999999;
     padding-top: 2rem;
 }
 hr.light {
